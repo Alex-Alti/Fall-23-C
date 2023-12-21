@@ -1,1 +1,1 @@
-# Fall-23-C
+# Fall 2023 C class practice
